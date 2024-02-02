@@ -336,7 +336,7 @@ a:hover {
   border-radius: 50%;
   right: 15px;
   bottom: 15px;
-  transition: background 0.5s;
+  transition: background 0.8s;
   z-index: 11;
 }
 
